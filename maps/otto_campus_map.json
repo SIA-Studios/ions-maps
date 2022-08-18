@@ -1,0 +1,12 @@
+{
+  "nodes": {
+    "node1": {
+      "jct1": {
+        "length": 10
+      },
+      "jct2": {
+        "length": 20
+      }
+    }
+  }
+}
