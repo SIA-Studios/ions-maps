@@ -1,30 +1,32 @@
 {
-    "coffee": {
-        "img": "https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1037&q=80",
-        "10": {
-            "01": [
-                "Social Space Beach"
-            ]
-        }
-    },
-    "tea": {
-        "img": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
-        "10": {
-            "01": [
-                "Social Space Beach"
-            ]
-        }
-    },
-    "food": {
-        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "": ""
-    },
-    "cocoa": {
-        "img": "https://images.unsplash.com/photo-1507576164121-220762647800?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "02": {
-            "01": [
-                "Cocoa Machine"
-            ]
+    "types": {
+        "coffee": {
+            "img": "https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1037&q=80",
+            "10": {
+                "01": [
+                    "Social Space Beach"
+                ]
+            }
+        },
+        "tea": {
+            "img": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
+            "10": {
+                "01": [
+                    "Social Space Beach"
+                ]
+            }
+        },
+        "food": {
+            "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "": ""
+        },
+        "cocoa": {
+            "img": "https://images.unsplash.com/photo-1507576164121-220762647800?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "02": {
+                "01": [
+                    "Cocoa Machine"
+                ]
+            }
         }
     }
 }
