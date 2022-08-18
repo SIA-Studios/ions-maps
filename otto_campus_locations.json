@@ -1,0 +1,27 @@
+{
+    "coffee": {
+        "10": {
+            "01": [
+                "Social Space Beach"
+            ]
+        }
+    },
+    "tea": {
+        "10": {
+            "01": [
+                "Social Space Beach"
+            ]
+        }
+    },
+    "food": {
+
+    },
+    "cocoa": {
+        "02": {
+            "01": [
+                "Cocoa Machine"
+            ]
+        }
+    }
+
+}
