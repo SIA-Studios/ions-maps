@@ -8,7 +8,8 @@
             {
                 "loc-name": "Social Space Beach",
                 "building": 10,
-                "floor": 1
+                "floor": 1,
+                "status": true
             }
         ]       
     },
@@ -21,7 +22,8 @@
             {
                 "loc-name": "Social Space Beach",
                 "building": 10,
-                "floor": 1
+                "floor": 1,
+                "status": true
             }
         ]
     },
@@ -34,7 +36,8 @@
             {
                 "loc-name": "Social Space Beach",
                 "building": 10,
-                "floor": 1
+                "floor": 1,
+                "status": true
             }
         ]
     },
@@ -47,7 +50,8 @@
             {
                 "loc-name": "Cocoa Machine",
                 "building": 2,
-                "floor": 1
+                "floor": 1,
+                "status": true
             }
         ]
     }
