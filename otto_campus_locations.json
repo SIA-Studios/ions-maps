@@ -91,10 +91,35 @@
         "locations": 
         [
             {
-                "loc-name": "Social Space Beach",
+                "loc-name": "Beach Bistro",
                 "building": 10,
                 "floor": 1,
                 "status": true
+            },
+            {
+                "loc-name": "Steelrunner",
+                "building": 1,
+                "floor": 0,
+                "status": true
+            },
+            {
+                "loc-name": "Boulevard Bistro",
+                "building": 2,
+                "floor": 0,
+                "status": true
+            },
+            {
+                "loc-name": "Kochwerk ELBE",
+                "building": 3,
+                "floor": 2,
+                "status": true
+            }
+            ,
+            {
+                "loc-name": "Kochwerk ALSTER",
+                "building": 1,
+                "floor": 3,
+                "status": false
             }
         ]
     },
