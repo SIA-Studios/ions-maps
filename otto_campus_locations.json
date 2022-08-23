@@ -7,61 +7,61 @@
         "locations": 
         [
             {
-                "loc-name": "Social Space Beach 1",
+                "loc-name": "Social Space Beach I",
                 "building": 10,
                 "floor": 1,
                 "status": true
             },
             {
-                "loc-name": "Social Space Beach 2",
+                "loc-name": "Social Space Beach II",
                 "building": 10,
                 "floor": 1,
                 "status": true
             },
             {
-                "loc-name": "Social Space Forrest 1",
+                "loc-name": "Social Space Forrest I",
                 "building": 10,
                 "floor": 2,
                 "status": true
             },
             {
-                "loc-name": "Social Space Forrest 2",
+                "loc-name": "Social Space Forrest II",
                 "building": 10,
                 "floor": 2,
                 "status": true
             },
             {
-                "loc-name": "Social Space Japan 1",
+                "loc-name": "Social Space Japan I",
                 "building": 10,
                 "floor": 3,
                 "status": false
             },
             {
-                "loc-name": "Social Space Japan 2",
+                "loc-name": "Social Space Japan II",
                 "building": 10,
                 "floor": 3,
                 "status": false
             },
             {
-                "loc-name": "Social Space Ocean 1",
+                "loc-name": "Social Space Ocean I",
                 "building": 10,
                 "floor": 4,
                 "status": true
             },
             {
-                "loc-name": "Social Space Ocean 2",
+                "loc-name": "Social Space Ocean II",
                 "building": 10,
                 "floor": 4,
                 "status": true
             },
             {
-                "loc-name": "Social Space Dark 1",
+                "loc-name": "Social Space Dark I",
                 "building": 10,
                 "floor": 5,
                 "status": true
             },
             {
-                "loc-name": "Social Space Dark 2",
+                "loc-name": "Social Space Dark II",
                 "building": 10,
                 "floor": 5,
                 "status": true
