@@ -106,9 +106,21 @@
         "locations": 
         [
             {
-                "loc-name": "Cocoa Machine",
+                "loc-name": "Cocoa Machine I",
                 "building": 2,
                 "floor": 1,
+                "status": true
+            },
+            {
+                "loc-name": "Cocoa Machine II",
+                "building": 3,
+                "floor": 1,
+                "status": true
+            },
+            {
+                "loc-name": "Cocoa Machine III",
+                "building": 5,
+                "floor": 4,
                 "status": true
             }
         ]
