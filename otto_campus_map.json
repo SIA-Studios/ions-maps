@@ -1,11 +1,63 @@
 {
-  "nodes": {
-    "node1": {
-      "jct1": {
-        "length": 10
-      },
-      "jct2": {
-        "length": 20
+  "junctions": {
+    "jct-2-3-21-2": {
+      "type:": "jct",
+      "posX": 21,
+      "posY": 2,
+      "floor": 2,
+      "building": 3,
+      "connections": {
+
+      }
+    },
+    "jct-2-3-21-5": {
+      "type:": "jct",
+      "posX": 21,
+      "posY": 5,
+      "floor": 2,
+      "building": 3,
+      "connections": {
+        
+      }
+    },
+    "jct2-3-20-7": {
+      "type:": "room",
+      "posX": 20,
+      "posY": 7,
+      "floor": 2,
+      "building": 3,
+      "connections": {
+        
+      }
+    },
+    "jct-2-3-25-8": {
+      "type:": "jct",
+      "posX": 25,
+      "posY": 8,
+      "floor": 2,
+      "building": 3,
+      "connections": {
+        
+      }
+    },
+    "jct-2-3-30-10": {
+      "type:": "jct",
+      "posX": 30,
+      "posY": 10,
+      "floor": 2,
+      "building": 3,
+      "connections": {
+        
+      }
+    },
+    "jct2-3-25-15": {
+      "type:": "room",
+      "posX": 25,
+      "posY": 15,
+      "floor": 2,
+      "building": 3,
+      "connections": {
+        
       }
     }
   }
