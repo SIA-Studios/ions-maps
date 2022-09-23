@@ -1,7 +1,7 @@
 [
     {
         "type": "Coffee",
-        "desc": "Its seems like you need it. Go ahead and get urself a nice hot coffee and burn the insides of your ugly mouth",
+        "desc": "Its seems like you need it. Go ahead and get urself a nice hot coffee.",
         "img": "https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1037&q=80",
         "icon-name": "0xe179",
         "locations": 
@@ -70,7 +70,7 @@
     },
     {
         "type": "Tea",
-        "desc": "If you drink tea, u probably have a mental disability, but anyways, here you go. You probably need that shit",
+        "desc": "Nice british tea. Like Tim likes to have it.",
         "img": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
         "icon-name": "0xe22e",
         "locations": 
@@ -85,7 +85,7 @@
     },
     {
         "type": "Food",
-        "desc": "If u want something to eat, come here and steal it.",
+        "desc": "If u want something to eat, come here and steal (probably not) it.",
         "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "icon-name": "0xe25a",
         "locations": 
@@ -125,7 +125,7 @@
     },
     {
         "type": "Choco Milk",
-        "desc": "Get some nice ass chocolate milk here! Remember, pull the cup away to not have all that damn nasty ass water in yo cup.",
+        "desc": "Get some nice ass chocolate milk here! Remember, pull the cup away to not have all that damn water in yo cup.",
         "img": "https://images.unsplash.com/photo-1507576164121-220762647800?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "icon-name": "0xe178",
         "locations": 
